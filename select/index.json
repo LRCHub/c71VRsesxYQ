@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "AlwayS",
+  "base_artist": "NiziU",
+  "createdAt": "2026-01-13T14:28:52.587332Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Momma Always Told Me (Nancie Remix) [feat. Stanaj & Yung Bae]",
+      "artist": "Mike Posner",
+      "has_synced": false,
+      "path": "select/01_Momma_Always_Told_Me_(Nancie_Remix)_[feat._Stanaj_&_Yung_Bae]_Mike_Posner.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ain't Always The Cowboy",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/02_Ain't_Always_The_Cowboy_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Always Late (With Your Kisses)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/03_Always_Late_(With_Your_Kisses)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Always Something With You",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/04_Always_Something_With_You_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Always the Love Songs",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/05_Always_the_Love_Songs_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Always Wanting You",
+      "artist": "Merle Haggard & The Strangers",
+      "has_synced": true,
+      "path": "select/06_Always_Wanting_You_Merle_Haggard_&_The_Strangers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Always on My Mind",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_Always_on_My_Mind_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Always on My Mind (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/08_Always_on_My_Mind_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever and for Always (Red Version)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/09_Forever_and_for_Always_(Red_Version)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/10_I_Will_Always_Love_You_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton & Vince Gill",
+      "has_synced": true,
+      "path": "select/11_I_Will_Always_Love_You_Dolly_Parton_&_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Will Always Love You",
+      "artist": "Dolly Parton and Vince Gill",
+      "has_synced": true,
+      "path": "select/12_I_Will_Always_Love_You_Dolly_Parton_and_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Will Always Love You (from the Original Motion Picture Soundtrack Album, \"The Best Little Whorehouse In Texas\")",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/13_I_Will_Always_Love_You_(from_the_Original_Motion_Picture_Soundtrack_Album,__The__Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Will Always Love You - Original Version",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/14_I_Will_Always_Love_You_-_Original_Version_Dolly_Parton.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AlwayS",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_AlwayS_NiziU.txt"
+    }
+  ]
+}
